@@ -1,16 +1,21 @@
 ### Hi there 👋
+**Glad to see you here!** :star_struck:
+- 🔭 Software Developer 
+Versatile, high-energy technocrat with the merit of executing information technology projects with the blend of multiple technologies and role.
+Highly passionate about high quality and gets hand dirty as on and when required on project development.
+- Skilled In Tech - NodeJS, Java, Spring Boot, ExpressJS
+- DB - MySQL, PostgreSQL
+- CICD - Jenkins, Docker
+- Cloud - GCP, AWS-S3, EC2, RDS, KMS, ELB, Auto Scaling, ACM, SQS.
+- SCM- Git
+- Application Monitoring Tools- New relic, Sumo logic ...
 
-<!--
-**pranaysaha-ps/pranaysaha-ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=pranaysaha-ps.visitor-badge)](https://github.com/pranaysaha-ps) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg)](https://github.com/pranaysaha-ps)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: System Design 
+- 💬 Ask me about : NodeJs, Java, Docker
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/pranay-saha-89308321)**
+- ⚡ Catch me for: Badminton, Volleyball, Video games, Nature-trek
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
