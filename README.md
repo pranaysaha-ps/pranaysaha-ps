@@ -10,9 +10,9 @@ Highly passionate about high quality and gets hand dirty as on and when required
 - SCM- Git
 - Application Monitoring Tools- New relic, Sumo logic ...
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=pranaysaha-ps.visitor-badge)](https://github.com/pranaysaha-ps) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg)](https://github.com/pranaysaha-ps)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg)](https://github.com/pranaysaha-ps)
 
-- 🌱 I’m currently learning: System Design 
+- 🌱 I’m currently learning: System Design, Dart, Rust 
 - 💬 Ask me about : NodeJs, Java, Docker
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/pranay-saha-89308321)**
 - ⚡ Catch me for: Badminton, Volleyball, Video games, Nature-trek
