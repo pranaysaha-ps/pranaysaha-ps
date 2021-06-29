@@ -6,13 +6,13 @@ Highly passionate about high quality and gets hand dirty as on and when required
 - Skilled In Tech - NodeJS, Java, Spring Boot, ExpressJS
 - DB - MySQL, PostgreSQL
 - CICD - Jenkins, Docker
-- Cloud - GCP, AWS-S3, EC2, RDS, KMS, ELB, Auto Scaling, ACM, SQS.
+- Cloud - GCP, AWS.
 - SCM- Git
-- Application Monitoring Tools- New relic, Sumo logic ...
+- Application Monitoring Tools- New relic, Sumo logic, Datadog ...
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg)](https://github.com/pranaysaha-ps)
 
-- 🌱 I’m currently learning: System Design, Dart, Rust 
+- 🌱 I’m currently learning: System Design, Go-Lang, Rust 
 - 💬 Ask me about : NodeJs, Java, Docker
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/pranay-saha-89308321)**
 - ⚡ Catch me for: Badminton, Volleyball, Video games, Nature-trek
